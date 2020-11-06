@@ -1,0 +1,80 @@
+{
+        background-color: color: black:
+}
+{
+    margin: 4;
+    padding: 3; 
+    box-sizing: border-box;
+    
+}
+.page-wrapper{
+
+    margin-right: calc(50% / 4);
+    margin-left: calc(40% / 4);
+    box-sizing: content-box;    
+}
+
+h1 {
+    font-style: 50px
+    background-color: gray;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 10px;
+    border-color: white;
+    font-family: "Roboto"
+    }
+
+h2{
+    margin-top: 30px;
+    font-style: 28px;
+    text-align: center;
+    font-family: "Charcoal"
+
+
+}
+h3{
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: "Charcoal";
+    margin-bottom: 20px;
+
+}
+
+body{
+    background-color: rgba(255, 255, 255, 0.692);
+    image-rendering: auto;
+}
+p{
+
+    font-size: 23px;
+    text-align: justify;
+}
+
+.sidebar .design-selection ul a{
+    text-decoration: none;
+    color: black;
+
+
+}
+body{
+    
+        background-color: #9a9a9c;
+       
+}
+
+a{
+    text-decoration: none;
+    color: rgb(226, 7, 7);
+}
+abbr{s
+    text-decoration: none;
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+
+}
+
+ul li{
+    font-size: 19px;
+}
