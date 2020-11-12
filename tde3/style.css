@@ -1,6 +1,7 @@
 {
-        background-color: color: black:
+    background-color: color: black:
 }
+
 {
     margin: 4;
     padding: 3; 
@@ -16,7 +17,7 @@
 
 h1 {
     font-style: 50px
-    background-color: gray;
+    background-color: none;
     color: rgb(0, 0, 0);
     text-align: center;
     border: 10px;
@@ -50,7 +51,9 @@ p{
     text-align: justify;
 }
 
-.sidebar .design-selection ul a{
+.sidebar {
+    background-color: none;
+    tenx-align: center;
     text-decoration: none;
     color: black;
 
@@ -58,8 +61,7 @@ p{
 }
 body{
     
-        background-color: #9a9a9c;
-       
+    background-image: url(https://thumbs.dreamstime.com/b/projeto-p%C3%A1lido-bege-elegante-da-textura-do-fundo-grunge-vintage-105081787.jpg);       
 }
 
 a{
